@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/OSS-Project-001/GitHub-Packages01/issues"
   },
-  "homepage": "https://github.com/OSS-Project-001/GitHub-Packages01#readme",
-  "publishConfig": {
-  "@erwin-ms:registry": "https://npm.pkg.github.com"
-  }
+  "homepage": "https://github.com/OSS-Project-001/GitHub-Packages01#readme"
 }
