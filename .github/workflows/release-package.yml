@@ -27,6 +27,7 @@ jobs:
         with:
           node-version: 18
           registry-url: https://npm.pkg.github.com/
+      - run: npm login --registry=https://npm.pkg.github.com --scope=@erwin-ms    
       - run: npm ci
       - run: npm publish
         env:
